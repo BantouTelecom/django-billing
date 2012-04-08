@@ -22,7 +22,7 @@ setup(
         'django-annoying',
         'django-model-utils',
         'South',
-        'django-jsonfield',
+        'jsonfield',
         'ordereddict',
     ],
     dependency_links = [
